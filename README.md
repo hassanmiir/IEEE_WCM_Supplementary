@@ -26,7 +26,7 @@ This extended reference list was excluded from the main manuscript due to the 15
 Please cite or refer to these works as needed for additional background or technical depth.
 
 > 🔗 GitHub Link:  
-> [https://github.com/yourusername/wcm-tinyml-supplementary](https://github.com/yourusername/wcm-tinyml-supplementary)
+> [https://github.com/yourusername/wcm-tinyml-supplementary](https://github.com/hassanmiir/IEEE_WCM_Supplementary)
 
 ---
 
