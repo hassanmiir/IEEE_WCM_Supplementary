@@ -6,8 +6,7 @@ This repository contains the **extended bibliography** that supports the submitt
 **"TinyML at the Wireless Edge: Architectures, Deployment Modes, and 6G Integration"**
 
 ### 👥 Authors:
-Mir Hassan, Nawaz Ali, Gianluca Aloi,  
-Raffaele Gravina, Kasim Sinan Yildirim, Giovanni Iacca
+Mir Hassan, Nawaz Ali, Gianluca Aloi, Raffaele Gravina, Kasim Sinan Yildirim, Giovanni Iacca
 
 ---
 
