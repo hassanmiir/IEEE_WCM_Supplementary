@@ -6,7 +6,7 @@ This repository contains the **extended bibliography** that supports the submitt
 **"TinyML at the Wireless Edge: Architectures, Deployment Modes, and 6G Integration"**
 
 ### 👥 Authors:
-Mir Hassan, Nawaz Ali, Gianluca Aloi, Raffaele Gravina, Kasim Sinan Yildirim, Giovanni Iacca
+Mir Hassan, Nawaz Ali, Gianluca Aloi, Raffaele Gravina, Giancarlo Fortino, Kasim Sinan Yildirim, Giovanni Iacca
 
 ---
 
@@ -25,7 +25,7 @@ This extended reference list was excluded from the main manuscript due to the 15
 Please cite or refer to these works as needed for additional background or technical depth.
 
 > 🔗 GitHub Link:  
-> [https://github.com/yourusername/wcm-tinyml-supplementary](https://github.com/hassanmiir/IEEE_WCM_Supplementary)
+> [https://github.com/hassanmiir/IEEE_WCM_Supplementary](https://github.com/hassanmiir/IEEE_WCM_Supplementary)
 
 ---
 
